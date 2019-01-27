@@ -1,0 +1,18 @@
+{
+  "name": "netlify-cms-responsive-youtube-editor-widget",
+  "version": "1.0.0",
+  "description": "Custom editor widget to allow reponsive YouTube videos to be placed into the editor.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "netlify-cms"
+  ],
+  "author": "Marcus Wood <marcuswood230@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mwood23/netlify-cms-responsive-youtube-editor-widget"
+  }
+}
