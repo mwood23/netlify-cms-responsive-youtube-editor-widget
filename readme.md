@@ -1,6 +1,6 @@
 # netlify-cms-responsive-youtube-editor-widget
 
-Adds a Vimeo widget to your editor allowing you to embed videos responsively with your app.
+Adds a YouTube widget to your editor allowing you to embed videos responsively with your app.
 
 ## Installation
 
